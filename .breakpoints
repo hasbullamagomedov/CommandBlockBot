@@ -1,0 +1,12 @@
+{
+  "files": {
+    "commands/shut_up.js": [
+      {
+        "id": "2bce4381-a48d-4dc4-8d41-475dcc4fc17f",
+        "line": 7,
+        "version": 19,
+        "index": 166
+      }
+    ]
+  }
+}
